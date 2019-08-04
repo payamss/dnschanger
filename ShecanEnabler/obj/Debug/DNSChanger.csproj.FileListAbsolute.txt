@@ -1,0 +1,2 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ShecanEnabler\ShecanEnabler\bin\Debug\DNSChanger.exe.config
+C:\Users\Administrator\Desktop\dnschanger\dnschanger\ShecanEnabler\bin\Debug\DNSChanger.exe.config

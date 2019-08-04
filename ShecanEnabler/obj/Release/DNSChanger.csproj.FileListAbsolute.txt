@@ -1,0 +1,8 @@
+C:\Users\Administrator\documents\visual studio 2017\Projects\ShecanEnabler\ShecanEnabler\obj\Release\ShecanEnabler.DNSChanger.resources
+C:\Users\Administrator\documents\visual studio 2017\Projects\ShecanEnabler\ShecanEnabler\obj\Release\DNSChanger.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2017\Projects\ShecanEnabler\ShecanEnabler\bin\Release\DNSChanger.exe.config
+C:\Users\Administrator\documents\visual studio 2017\Projects\ShecanEnabler\ShecanEnabler\bin\Release\DNSChanger.exe
+C:\Users\Administrator\documents\visual studio 2017\Projects\ShecanEnabler\ShecanEnabler\bin\Release\DNSChanger.pdb
+C:\Users\Administrator\documents\visual studio 2017\Projects\ShecanEnabler\ShecanEnabler\obj\Release\DNSChanger.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2017\Projects\ShecanEnabler\ShecanEnabler\obj\Release\DNSChanger.exe
+C:\Users\Administrator\documents\visual studio 2017\Projects\ShecanEnabler\ShecanEnabler\obj\Release\DNSChanger.pdb

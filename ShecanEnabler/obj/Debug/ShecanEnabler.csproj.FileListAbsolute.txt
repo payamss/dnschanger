@@ -1,0 +1,8 @@
+C:\Users\Administrator\documents\visual studio 2017\Projects\ShecanEnabler\ShecanEnabler\bin\Debug\ShecanEnabler.exe.config
+C:\Users\Administrator\documents\visual studio 2017\Projects\ShecanEnabler\ShecanEnabler\bin\Debug\ShecanEnabler.exe
+C:\Users\Administrator\documents\visual studio 2017\Projects\ShecanEnabler\ShecanEnabler\bin\Debug\ShecanEnabler.pdb
+C:\Users\Administrator\documents\visual studio 2017\Projects\ShecanEnabler\ShecanEnabler\obj\Debug\ShecanEnabler.DNSChanger.resources
+C:\Users\Administrator\documents\visual studio 2017\Projects\ShecanEnabler\ShecanEnabler\obj\Debug\ShecanEnabler.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2017\Projects\ShecanEnabler\ShecanEnabler\obj\Debug\ShecanEnabler.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2017\Projects\ShecanEnabler\ShecanEnabler\obj\Debug\ShecanEnabler.exe
+C:\Users\Administrator\documents\visual studio 2017\Projects\ShecanEnabler\ShecanEnabler\obj\Debug\ShecanEnabler.pdb
